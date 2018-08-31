@@ -1,3 +1,3 @@
 # Twitter
 
-To grab data from twitter developer api with search term
+To grab data from twitter developer api using search term
